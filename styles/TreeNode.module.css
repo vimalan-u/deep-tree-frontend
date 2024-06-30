@@ -1,0 +1,13 @@
+.node {
+    padding: 10px;
+    margin: 5px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .node:hover {
+    background-color: #d0d0d0;
+  }
+  
